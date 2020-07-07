@@ -4,7 +4,7 @@ export const products = [
     desc: `Rubber ducks can lay as many eggs as the best chicken layers, and they
   are fun to watch with their antics in your backyard, your barnyard, or
   your pond.`,
-    price: 9.99,
+    price: 10.99,
     img:
       'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSqkN8wkHiAuT2FQ14AsJFgihZDzKmS6OHQ6eMiC63rW8CRDcbK',
     id: 100
