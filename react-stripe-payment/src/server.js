@@ -6,7 +6,7 @@ require('dotenv').config()
 
 const app = express()
 const router = express.Router()
-const port = process.env.PORT || 7000
+const port = process.env.PORT || 8000
 
 router.post('/stripe/charge', postCharge)
 router.all('*', (_, res) =>
